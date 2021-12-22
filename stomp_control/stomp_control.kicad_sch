@@ -529,9 +529,6 @@
     (path "/ccb5d444-291a-4d33-8e62-4726ec3b0be7/49abee38-0eb7-4f72-8fb4-415622bbb231"
       (reference "J1") (unit 1) (value "SWD") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
-    (path "/ccb5d444-291a-4d33-8e62-4726ec3b0be7/cabf65ce-8220-482d-bfdf-eb13ed9eba70"
-      (reference "J2") (unit 1) (value "PROG_MODE") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
-    )
     (path "/ccb5d444-291a-4d33-8e62-4726ec3b0be7/e30ac09b-ca1b-44f5-941f-a92507c4575a"
       (reference "J3") (unit 1) (value "RESET") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
