@@ -1,3 +1,5 @@
 (sym_lib_table
   (lib (name "RP2040")(type "KiCad")(uri "${KIPRJMOD}/external_symbols/RP2040/RP2040.kicad_sym")(options "")(descr ""))
+  (lib (name "usb_c_receptacle_usb2.0")(type "KiCad")(uri "${KIPRJMOD}/external_symbols/USB_C/usb_c_receptacle_usb2.0.kicad_sym")(options "")(descr ""))
+  (lib (name "sc_custom")(type "KiCad")(uri "${KIPRJMOD}/external_symbols/sc_custom.kicad_sym")(options "")(descr ""))
 )
